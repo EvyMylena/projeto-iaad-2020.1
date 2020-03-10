@@ -1,0 +1,1 @@
+SELECT COUNT(quantidade) FROM item_pedidos;
